@@ -1,0 +1,9 @@
+yuliao			/home/taria/mysearchengine/server/rss
+ripepagelib		/home/taria/mysearchengine/server/data/pagelib.dat
+offsetlib		/home/taria/mysearchengine/server/data/offsetlib.dat
+stopword		/home/taria/cppjieba/dict/stop_words.utf8
+newpagelib		/home/taria/mysearchengine/server/data/newpagelib.dat
+newoffsetlib	/home/taria/mysearchengine/server/data/newoffsetlib.dat
+invertindexlib	/home/taria/mysearchengine/server/data/invertindex.dat
+
+
